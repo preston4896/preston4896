@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there, I am Preston Ong! 👋
 
-<!--
-**preston4896/preston4896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align = "center" > Preston.sol </h2> 
 
-Here are some ideas to get you started:
+```solidity
+pragma soliditiy ^0.6.0;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+contract Preston is Awesome {
+
+  string profession;
+  string currentLocation;
+  string[] spokenLanguages;
+  string[] codingLanguages;
+  bool toTheMoon;
+  
+  function setProfile() public returns (string) {
+    profession = "Blockchain Developer";
+    currentLocation = "Malaysia";
+    spokenLanguages = ["Mandarin Chinese", "English"];
+    codingLanguages = ["Solidity", "C++", "Typescript", "Swift", "Python"];
+    toTheMoon = true;
+    
+    return ("Nice to meet you!");
+  }
+  
+}
+
+```
+
+![Preston's GitHub stats](https://github-readme-stats.vercel.app/api?username=preston4896&count_private=true&show_icons=true&theme=dark)
