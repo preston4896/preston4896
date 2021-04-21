@@ -3,7 +3,7 @@
 <h2 align = "center" > Preston.sol </h2> 
 
 ```solidity
-pragma soliditiy ^0.6.0;
+pragma solidity ^0.6.0;
 
 contract Preston is Awesome {
 
