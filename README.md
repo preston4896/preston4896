@@ -13,7 +13,7 @@ contract Preston is Awesome {
   string[] codingLanguages;
   bool toTheMoon;
   
-  function setProfile() public returns string {
+  function setProfile() public returns string memory {
     profession = "Blockchain Developer";
     currentLocation = "Malaysia";
     spokenLanguages = ["Mandarin Chinese", "English"];
