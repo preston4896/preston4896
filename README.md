@@ -17,6 +17,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain 101 &lpar;Part II&rpar;](https://medium.com/@prestonong/blockchain-101-part-ii-f557c4bcbde8?source=rss-e165852d6ea3------2)
+- [Blockchain 101 &lpar;Part I&rpar;](https://medium.com/@prestonong/blockchain-101-part-i-1cdef73c4bfd?source=rss-e165852d6ea3------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
