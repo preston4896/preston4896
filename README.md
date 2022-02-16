@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Core Blockchain Development, specifically on Substrate**
 
-- 👨‍💻 All of my projects are available at [prestonong.com](prestonong.com)
+- 👨‍💻 All of my projects are available at [prestonong.com](https://prestonong.com)
 
-- 📝 I regularly write articles on [blog.prestonong.com](blog.prestonong.com)
+- 📝 I regularly write articles on [blog.prestonong.com](https://blog.prestonong.com)
 
 - 💬 Ask me about **Solidity**
 
