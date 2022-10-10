@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [prestonong.com](https://prestonong.com)
 
-- 📝 I regularly write articles on [blog.prestonong.com](https://blog.prestonong.com)
-
 - 💬 Ask me about **Solidity**
 
 - 📫 How to reach me **preston4896@me.com**
