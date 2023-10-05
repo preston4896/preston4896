@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preston4896&label=Profile%20views&color=0e75b6&style=flat" alt="preston4896" /> </p>
 
-- 🌱 I’m currently learning **Core Blockchain Development, specifically on Substrate**
-
-- 👨‍💻 All of my projects are available at [prestonong.com](https://prestonong.com)
-
 - 💬 Ask me about **Solidity**
 
 - 📫 How to reach me **preston4896@me.com**
