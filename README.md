@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Preston Ong</h1>
 <h3 align="center">I am an avocate for transparent, secure, universal and easy access to technology for all.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=preston4896&label=Profile views&color=0e75b6&style=flat" alt="preston4896" /> </p>
-
 - 🌱 I'm currently learning **Japanese** 🇯🇵
 
 - 💬 Ask me about **EVM blockchains, Solidity, Cryptography, Zero Knowledge and anything Web3.**
@@ -14,7 +12,7 @@
     - **I have been touching grass 🍃, cooking steak 🥩, lifting weights 🏋️, and running. 🏃**
     - **I have traveled to more than 20+ countries so far. ✈️**
 
-- 👨‍💻 All of my projects are available at **[https://prestonong.com/](https://prestonong.com/)**
+- 👨‍💻 My resume can be found on my website at **[https://prestonong.com/](https://prestonong.com/)**
 
 - 📝 Sometimes, I write articles on **[https://prestonong.medium.com/](https://prestonong.medium.com/)**
 
